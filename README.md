@@ -12,7 +12,7 @@ It includes:
 
 ***
 
-# 📘 **Java 25 – Virtual Threads & JFR Lab**
+# 📘 **Java 25 – Virtual Threads & JFR Lab (Programmetic approach)**
 
 This project contains hands‑on exercises for mastering **Virtual Threads (Project Loom)** and **Java Flight Recorder (JFR)** using **Java 25 LTS**.
 
